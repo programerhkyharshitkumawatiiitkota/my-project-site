@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
 *{
     margin-top: 2px;padding: 0;
 }
 
 .flex-all-center{
     /* text-align: center; */
-@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
 
     display: flex;
     justify-content: center;
